@@ -1,5 +1,13 @@
 # API Specification Document
 
+Today we're going to be looking at `Stripes` Open API Specification
+
+https://github.com/stripe/openapi/tree/master/openapi
+
+Specifically we're going to be looking at the `charges` endpoint and how its `POST` operation works
+
+We want to make sure that it's reasonably tested and have the means assure our team that we know it's valid and durable.
+
 ## Assumptions
 
 -   Previous request have been made to configure `Accounts`

@@ -24,6 +24,7 @@ Using this endpoint, explain to me how you would approach testing it
 -   Request?
 -   Response?
 -   Behind the scenes data?
+-   What else?
 
 ### Grading
 
